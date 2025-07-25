@@ -105,7 +105,9 @@ The designed network architecture fulfills the requirements of a secure, flexibl
 ├── report/
 │ └── automobile_networking_report.docx
 ├── simulation/
-│ └── automobile_network_design.pkt (optional: Cisco Packet Tracer file)
+│ └── automobile_network_design.pkt
+
+( Cisco Packet Tracer file)
 
 
 ---
