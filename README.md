@@ -103,9 +103,11 @@ The designed network architecture fulfills the requirements of a secure, flexibl
 
 ---
 
-## 📎 File Structure
-automobile-networking-case-study/
-│
+## 🚀 Getting Started
+
+**Ayush Kumar**  
+B.Tech CSE | Data Analyst Enthusiast  
+[LinkedIn]( http://www.linkedin.com/in/ayush-kumar-4137 ) | [GitHub]( https://github.com/CodeWithXayush )
 ├── README.md
 ├── report/
 │ └── automobile_networking_report.docx
