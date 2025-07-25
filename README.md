@@ -101,6 +101,13 @@ The aim of the project is to propose a modernized network architecture that inte
 
 The designed network architecture fulfills the requirements of a secure, flexible, and fail-safe industrial networking system. It enables optimized data sharing and connectivity across all six departments with both LAN and WLAN support.
 
+├── README.md
+├── report/
+│ └── automobile_networking_report.docx
+├── simulation/
+│ └── automobile_network_design.pkt (optional: Cisco Packet Tracer file)
+
+
 ---
 
 ## 🚀 Getting Started
@@ -108,9 +115,5 @@ The designed network architecture fulfills the requirements of a secure, flexibl
 **Ayush Kumar**  
 B.Tech CSE | Data Analyst Enthusiast  
 [LinkedIn]( http://www.linkedin.com/in/ayush-kumar-4137 ) | [GitHub]( https://github.com/CodeWithXayush )
-├── README.md
-├── report/
-│ └── automobile_networking_report.docx
-├── simulation/
-│ └── automobile_network_design.pkt (optional: Cisco Packet Tracer file)
+
 
